@@ -1,0 +1,14 @@
+.headerlinks{
+    color:white !important;
+    padding: 20px;
+}
+.search{
+    align-content: center !important;
+}
+.logout{
+    background-color: crimson !important;
+    padding-top: 9px;
+    height: 44px;
+    margin-top: 8px !important;
+    align-content: center !important;
+}
